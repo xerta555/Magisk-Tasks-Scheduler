@@ -1,0 +1,28 @@
+##########################################################################################
+# Main device infos
+##########################################################################################
+
+
+
+
+##########################################################################################
+#Event planning
+##########################################################################################
+
+#Hello! :)
+#This is your event planning! In it you can write all the tasks you want that your phone make.
+#Please respect the different rule criteria:
+
+# If you want to specify a time when you want to do some action(s), thanks to following these time indicators:
+#Minute: for the desired minute
+#Hour: for the desired hour
+#Day (number of the month)
+#Month
+#Day of the week
+
+# Some exemples:
+# If we want to copy all files from /folder1/ to /folder2/ all Tuesday at 11h50AM, type this following sentence:
+all Tuesday 11h50AM copy all files from /folder1/ to /folder2/
+
+# If we want to moving all .mp3 files from internal storage to external storage all day at 11PM, type this following sentence:
+all day 11PM moving all .mp3 files from internal storage to external storage
